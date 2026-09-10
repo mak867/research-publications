@@ -66,10 +66,23 @@ In *IOT with Smart Systems: Proceedings of ICTIS 2022, Volume 2*, pp. 547–557
 
 ### 2020
 
+#### Comparing and Analysing Binary Classification Algorithms When Used to Detect the Zeus Malware
+
+**Mohamed Ali Kazi, Steve Woodhead, Diane Gan**  
+*2019 Sixth HCT Information Technology Trends (ITT)*, IEEE, pp. 6–11
+
+[Publisher](https://ieeexplore.ieee.org/document/9075115) •
+[DOI](https://doi.org/10.1109/ITT48889.2019.9075115)
+
 #### Detecting the Zeus Banking Malware Using the Random Forest Binary Classification Algorithm and a Manual Feature Selection Process
 
 **Mohamed Ali Kazi, Steve Woodhead, Diane Gan**  
-*Communications in Computer and Information Science*
+*Security in Computing and Communications*, Communications in Computer and Information Science, 2020, pp. 286–297
+
+[Publisher](https://link.springer.com/chapter/10.1007/978-981-15-4825-3_23) •
+[DOI](https://doi.org/10.1007/978-981-15-4825-3_23)
+
+---
 
 ---
 
