@@ -95,7 +95,6 @@ In *IOT with Smart Systems: Proceedings of ICTIS 2022, Volume 2*, pp. 547–557
 
 ---
 
----
 
 ## 🔗 Research Profiles
 
