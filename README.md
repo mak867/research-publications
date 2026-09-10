@@ -84,17 +84,6 @@ In *IOT with Smart Systems: Proceedings of ICTIS 2022, Volume 2*, pp. 547–557
 
 ---
 
----
-
-### 2019
-
-#### Comparing and Analysing Binary Classification Algorithms When Used to Detect the Zeus Malware
-
-**Mohamed Ali Kazi, Steve Woodhead, Diane Gan**  
-Conference Paper
-
----
-
 ### 2018
 
 #### A Contempory Taxonomy of Banking Malware
