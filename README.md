@@ -89,7 +89,11 @@ In *IOT with Smart Systems: Proceedings of ICTIS 2022, Volume 2*, pp. 547–557
 #### A Contempory Taxonomy of Banking Malware
 
 **Mohamed Ali Kazi, Steve Woodhead, Diane Gan**  
-Conference Paper
+*First International Conference on Secure Cyber Computing and Communications*, Jalandhar, India, 15–17 December 2018
+
+**Research Areas:** `Banking Malware` `Malware Taxonomy` `Cyber Security` `Threat Analysis`
+
+---
 
 ---
 
